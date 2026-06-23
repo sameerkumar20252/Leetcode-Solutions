@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [1189-maximum-number-of-balloons](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Counting
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
