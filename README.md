@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [1189-maximum-number-of-balloons](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0344-reverse-string) |
 ## Matrix
 |  |
