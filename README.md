@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0136-single-number) |
+| [0493-reverse-pairs](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0493-reverse-pairs](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -119,4 +121,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0493-reverse-pairs](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
+## Binary Search
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
