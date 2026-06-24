@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [1189-maximum-number-of-balloons](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
 ## String
 |  |
 | ------- |
@@ -16,10 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
 ## Counting
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
 ## Linked List
 |  |
 | ------- |
