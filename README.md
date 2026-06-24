@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
+| [3659-partition-array-into-k-distinct-groups](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3659-partition-array-into-k-distinct-groups) |
 ## String
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [3659-partition-array-into-k-distinct-groups](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3659-partition-array-into-k-distinct-groups) |
 ## Linked List
 |  |
 | ------- |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [2965-find-missing-and-repeated-values](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
+| [3659-partition-array-into-k-distinct-groups](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3659-partition-array-into-k-distinct-groups) |
 ## Stack
 |  |
 | ------- |
