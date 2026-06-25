@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0031-next-permutation) |
+| [0046-permutations](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
