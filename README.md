@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2390-removing-stars-from-a-string](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Counting
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2390-removing-stars-from-a-string](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2079-watering-plants](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2079-watering-plants) |
+| [2390-removing-stars-from-a-string](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
