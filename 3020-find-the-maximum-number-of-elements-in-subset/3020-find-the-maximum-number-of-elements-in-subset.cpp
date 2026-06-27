@@ -3,7 +3,7 @@ public:
     int maximumLength(vector<int>& nums) {
         unordered_map<int,int> m;
         int ans = 0;
-        const long long limit = 1e9;
+        const int limit = 1e9;
 
         for(int x : nums) {
             m[x]++;
@@ -16,9 +16,9 @@ public:
         }
 
         for(auto& a : m) {
-            long long x = a.first;
-            if(x > 1) {
-                long long p = (x * x);
+            int x = a.first;
+            if(x > 1 && x <= limit/x) {
+                int p = (x * x);
                 int len = 1;
 
                 while(p <= limit && m.count(p) && m[x] > 1) {
