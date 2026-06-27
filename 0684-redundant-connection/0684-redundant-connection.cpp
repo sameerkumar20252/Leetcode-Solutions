@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<int> par, rank;
-    int m = 0, n = 0;
+    int m = -1, n = -1;
     int find(int x) {
         if(par[x] == x) {
             return x;
@@ -43,8 +43,11 @@ public:
 
         for(auto& e : edges) {
             unite(e[0]-1,e[1]-1);
+            if(m != -1) {
+                return {m+1,n+1};
+            }
         }
 
-        return {m+1,n+1};
+        return {-1, -1};
     }
 };
