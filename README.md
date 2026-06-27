@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3659-partition-array-into-k-distinct-groups](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3659-partition-array-into-k-distinct-groups) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2079-watering-plants](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2079-watering-plants) |
 | [2105-watering-plants-ii](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2105-watering-plants-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3659-partition-array-into-k-distinct-groups](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3659-partition-array-into-k-distinct-groups) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element) |
@@ -299,4 +301,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Enumeration
+|  |
+| ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 <!---LeetCode Topics End-->
