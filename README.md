@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1748-sum-of-unique-elements](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3659-partition-array-into-k-distinct-groups](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3659-partition-array-into-k-distinct-groups) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 | [2079-watering-plants](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2079-watering-plants) |
 | [2105-watering-plants-ii](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2105-watering-plants-ii) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3659-partition-array-into-k-distinct-groups](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3659-partition-array-into-k-distinct-groups) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Math
 |  |
 | ------- |
