@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2390-removing-stars-from-a-string](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3340-check-balanced-string](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3340-check-balanced-string) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1901-find-a-peak-element-ii](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1901-find-a-peak-element-ii) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2079-watering-plants](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2079-watering-plants) |
 | [2105-watering-plants-ii](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2105-watering-plants-ii) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
