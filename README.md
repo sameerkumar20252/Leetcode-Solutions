@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-unique-email-addresses](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0929-unique-email-addresses) |
 | [1002-find-common-characters](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1002-find-common-characters) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [1584-min-cost-to-connect-all-points](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1748-sum-of-unique-elements](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1901-find-a-peak-element-ii](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1901-find-a-peak-element-ii) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0743-network-delay-time) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1584-min-cost-to-connect-all-points](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0684-redundant-connection) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1584-min-cost-to-connect-all-points](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 ## Hash Function
 |  |
 | ------- |
@@ -379,4 +382,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3829-design-ride-sharing-system](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3829-design-ride-sharing-system) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
