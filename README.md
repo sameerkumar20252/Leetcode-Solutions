@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3659-partition-array-into-k-distinct-groups](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3659-partition-array-into-k-distinct-groups) |
+| [3713-longest-balanced-substring-i](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3829-design-ride-sharing-system](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3829-design-ride-sharing-system) |
 ## String
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2287-rearrange-characters-to-make-target-string](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2390-removing-stars-from-a-string](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3340-check-balanced-string](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3340-check-balanced-string) |
+| [3713-longest-balanced-substring-i](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3713-longest-balanced-substring-i) |
 ## Counting
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [3659-partition-array-into-k-distinct-groups](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3659-partition-array-into-k-distinct-groups) |
+| [3713-longest-balanced-substring-i](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Linked List
 |  |
@@ -392,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3713-longest-balanced-substring-i](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3827-count-monobit-integers](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3827-count-monobit-integers) |
 | [3833-count-dominant-indices](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3833-count-dominant-indices) |
 ## Design
