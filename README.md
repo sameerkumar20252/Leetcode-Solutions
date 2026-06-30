@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0684-redundant-connection](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0743-network-delay-time) |
+| [0814-binary-tree-pruning](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0814-binary-tree-pruning) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Breadth-First Search
 |  |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0572-subtree-of-another-tree](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
+| [0814-binary-tree-pruning](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0814-binary-tree-pruning) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0572-subtree-of-another-tree](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
+| [0814-binary-tree-pruning](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0814-binary-tree-pruning) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Quickselect
 |  |
