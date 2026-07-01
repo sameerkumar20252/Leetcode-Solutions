@@ -22,12 +22,8 @@ public:
                     match++;
                 }
             }
-            bool valid = false;
-            if(match == need.size()) {
-                valid = true;
-            }
 
-            while(valid ) {
+            while(match == need.size()) {
                 if(len > (j - i + 1)) {
                     a = i; b = j;
                     len = (j - i + 1);
@@ -36,7 +32,6 @@ public:
                     window[s[i]]--;
                     if(window[s[i]] < need[s[i]]) {
                         match--;
-                        valid = false;
                     }
                 }
                 i++;
