@@ -1,60 +1,43 @@
 class Solution {
 public:
-    vector<int> Dijkstra(int src, vector<vector<pair<int,int>>>& adj, int thr) {
-        int n = adj.size();
-        priority_queue<
-            pair<int,int>,
-            vector<pair<int,int>>,
-            greater<pair<int,int>>
-            > pq;
-
-        vector<int> dis(n, INT_MAX);
-
-        dis[src] = 0;
-        pq.push({0, src});
-
-        while(!pq.empty()) {
-            auto [d, u] = pq.top();
-            pq.pop();
-
-            if(d > dis[u]) continue;
-
-            for(auto &[v, wt] : adj[u]) {
-                if(d + wt < dis[v]) {
-                    dis[v] = d + wt;
-                    pq.push({dis[v], v});
-                }
-            }
-        }
-
-        return dis;
-    }
-
     int findTheCity(int n, vector<vector<int>>& edges, int distanceThreshold) {
-        int ans = 0;
-        int city = INT_MAX;
+        //floyd warshall
+        vector<vector<long long>> dist(n, vector<long long>(n, LLONG_MAX));
 
-        vector<vector<pair<int,int>>> adj(n);
         for(auto& e : edges) {
-            adj[e[0]].push_back({e[1], e[2]});
-            adj[e[1]].push_back({e[0], e[2]});
-
+            int u = e[0], v = e[1], wt = e[2];
+            dist[u][v] = dist[v][u] = wt;
         }
 
         for(int i = 0; i < n; i++) {
-            vector<int> dis = Dijkstra(i, adj, distanceThreshold);
-            int temp = 0;
-            for(int x : dis) {
-                if(x <= distanceThreshold) {
-                    temp++;
+            dist[i][i] = 0;
+        }
+
+        for(int k = 0; k < n; k++) {
+            for(int i = 0; i < n; i++) {
+                for(int j = 0; j < n; j++) {
+                    if(dist[i][k] == LLONG_MAX || dist[k][j] == LLONG_MAX) continue;
+                    dist[i][j] = min(dist[i][j], dist[i][k] + dist[k][j]); 
                 }
-            }
-            if(temp <= city) {
-                city = temp;
-                ans = i;
             }
         }
 
+        int ans = INT_MAX;
+        int reachable = INT_MAX;
+
+        for(int i = 0; i < n; i++) {
+            int temp = n;
+            bool flag = true;
+            for(int j = 0; j < n; j++) {
+                if(dist[i][j] > distanceThreshold) {
+                    temp--;
+                }
+            }
+            if(reachable >= temp) {
+                ans = i;
+                reachable = temp;
+            }
+        }
         return ans;
     }
 };
