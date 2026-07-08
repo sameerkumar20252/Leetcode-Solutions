@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1901-find-a-peak-element-ii](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1901-find-a-peak-element-ii) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2079-watering-plants](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2079-watering-plants) |
 | [2105-watering-plants-ii](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2105-watering-plants-ii) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1901-find-a-peak-element-ii](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1901-find-a-peak-element-ii) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2965-find-missing-and-repeated-values](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Simulation
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0841-keys-and-rooms) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
