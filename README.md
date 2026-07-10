@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0929-unique-email-addresses](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0929-unique-email-addresses) |
+| [0946-validate-stack-sequences](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0946-validate-stack-sequences) |
 | [1002-find-common-characters](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1002-find-common-characters) |
 | [1288-remove-covered-intervals](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
+| [0946-validate-stack-sequences](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0946-validate-stack-sequences) |
 | [1441-build-an-array-with-stack-operations](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
+| [0946-validate-stack-sequences](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0946-validate-stack-sequences) |
 | [1441-build-an-array-with-stack-operations](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2079-watering-plants](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2079-watering-plants) |
