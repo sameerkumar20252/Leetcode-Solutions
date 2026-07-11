@@ -9,11 +9,11 @@ public:
         dist[0][0] = 1;
         using T = tuple<int,int,int>;
 
-        priority_queue<T,vector<T>,greater<T>> pq;
+        queue<T> pq;
         pq.push({1,0,0});
 
         while(pq.size() > 0) {
-            auto [d,i,j] = pq.top();
+            auto [d,i,j] = pq.front();
             pq.pop();
 
             if(d > dist[i][j]) {
