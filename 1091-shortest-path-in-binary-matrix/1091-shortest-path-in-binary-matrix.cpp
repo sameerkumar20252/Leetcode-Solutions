@@ -16,6 +16,10 @@ public:
             auto [d,i,j] = pq.front();
             pq.pop();
 
+            if(i == n-1 && j == n-1) {
+                return dist[i][j];
+            }
+
             if(d > dist[i][j]) {
                 continue;
             }
@@ -77,9 +81,6 @@ public:
             }
         }
 
-        if(dist[n-1][n-1] == INT_MAX) {
-            return -1;
-        }
-        return dist[n-1][n-1];
+        return -1;
     }
 };
