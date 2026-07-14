@@ -1,37 +1,19 @@
 class Solution {
 public:
-    int str = 0;
-    void helper(int n, int sum) {
-        if(sum > n) return;
-
-        if(sum == n) {
-            str++;
-            return;
+    int helper(int n, vector<int>& dp) {
+        if(n == 1 || n == 2) {
+            return n;
         }
-
-        helper(n, sum + 1);
-        helper(n, sum + 2);
+        if(dp[n] != -1) {
+            return dp[n];
+        }
+        return dp[n] = helper(n-1, dp) + helper(n-2, dp);
     }
 
     int climbStairs(int n) {
-        if(n == 43){
-            return 701408733;
-        }
-        if(n == 44) {
-            return 1134903170;
-        }
-        if(n == 45) {
-            return 1836311903;
-        }
-        if(n == 42){
-            return 433494437;
-        }
-        if(n == 26) {
-            return 196418;
-        }
-        int sum = 0;
-        helper(n, sum);
+        //Memoization
+        vector<int> dp(n+1, -1);
 
-        return str;
+        return helper(n, dp);
     }
 };
