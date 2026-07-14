@@ -1,18 +1,21 @@
 class Solution {
 public:
     int climbStairs(int n) {
-        //Tabulation
+        //Tabulation(Memory Optimized)
         if(n == 1 || n == 2) {
             return n;
         }
-        vector<int> dp(n+1);
-        dp[1] = 1;
-        dp[2] = 2;
+
+        int prev1 = 1; // n - 2
+        int prev2 = 2;  //n - 1
+        int result = 0;
 
         for(int i = 3; i <= n; i++) {
-            dp[i] = dp[i-1] + dp[i-2];
+            result = prev1 + prev2;
+            prev1 = prev2;
+            prev2 = result;
         }
 
-        return dp[n];
+        return result;
     }
 };
