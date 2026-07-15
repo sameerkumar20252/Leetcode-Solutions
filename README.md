@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3659-partition-array-into-k-distinct-groups](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3659-partition-array-into-k-distinct-groups) |
+| [3693-climbing-stairs-ii](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3693-climbing-stairs-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element) |
 | [3833-count-dominant-indices](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3833-count-dominant-indices) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [3693-climbing-stairs-ii](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3693-climbing-stairs-ii) |
 | [3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element) |
 | [3840-house-robber-v](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3840-house-robber-v) |
 ## Greedy
