@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2079-watering-plants](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2079-watering-plants) |
 | [2105-watering-plants-ii](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2105-watering-plants-ii) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [1352-product-of-the-last-k-numbers](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [2965-find-missing-and-repeated-values](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
