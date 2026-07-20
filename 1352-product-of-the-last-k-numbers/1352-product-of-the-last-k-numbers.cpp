@@ -14,6 +14,9 @@ public:
         int i = stream.size() - 1;
 
         while(k--) {
+            if(stream[i] == 0) {
+                return 0;
+            }
             ans *= stream[i];
             i--;
         }
