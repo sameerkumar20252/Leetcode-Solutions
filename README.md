@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0814-binary-tree-pruning](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0814-binary-tree-pruning) |
 | [0841-keys-and-rooms](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0841-keys-and-rooms) |
 | [1192-critical-connections-in-a-network](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1192-critical-connections-in-a-network) |
+| [1302-deepest-leaves-sum](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1302-deepest-leaves-sum) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0841-keys-and-rooms) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [1302-deepest-leaves-sum](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1302-deepest-leaves-sum) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -476,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0572-subtree-of-another-tree](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0814-binary-tree-pruning](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0814-binary-tree-pruning) |
+| [1302-deepest-leaves-sum](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1302-deepest-leaves-sum) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -496,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0572-subtree-of-another-tree](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0814-binary-tree-pruning](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0814-binary-tree-pruning) |
+| [1302-deepest-leaves-sum](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1302-deepest-leaves-sum) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Quickselect
 |  |
