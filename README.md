@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0092-reverse-linked-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0148-sort-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Array
 |  |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
@@ -568,4 +570,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
