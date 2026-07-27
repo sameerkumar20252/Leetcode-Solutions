@@ -10,33 +10,23 @@
  */
 class Solution {
 public:
+    vector<int> stack;
+    int i = 0;
+    int l = 1, r = 1;
     ListNode* reverseBetween(ListNode* head, int left, int right) {
-        if(head == nullptr || left == right) {
+        if(head == nullptr || r > right) {
             return head;
         }
-
-        ListNode* dummy = new ListNode(0, head);
-        ListNode* prev = dummy;
-        ListNode* curr = head;
-
-        for(int i = 1; i < left; i++) {
-            prev = curr;
-            curr = curr->next;
+        if(l >= left) {
+            stack.push_back(head->val);
         }
+        l++, r++;
+        reverseBetween(head->next, left, right);
 
-        ListNode* next = nullptr;
-        ListNode* revPrev = nullptr;
-
-        for(int i = left; i <= right; i++) {
-            next = curr->next;
-            curr->next = revPrev;
-            revPrev = curr;
-            curr = next;
+        if(i < stack.size()) {
+            head->val = stack[i++];
         }
-
-        prev->next->next = curr;
-        prev->next = revPrev;
-
-        return dummy->next;
+        
+        return head;
     }
 };
