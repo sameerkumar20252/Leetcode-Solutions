@@ -37,10 +37,6 @@ public:
         if(level == l + 1) {
             node->left = helper(traversal, level, idx);
         }
-        // else {
-        //     return node;
-        // }
-
         if(level == l + 1) {
             node->right = helper(traversal, level, idx);
         }
