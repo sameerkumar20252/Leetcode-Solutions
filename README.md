@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Array
 |  |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2105-watering-plants-ii](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2105-watering-plants-ii) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
