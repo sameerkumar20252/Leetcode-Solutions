@@ -1,9 +1,5 @@
 class Solution {
 public:
-    // static bool compare(const pair<char,int>& a, const pair<char,int>& b) {
-    //     return a.second < b.second;
-    // }
-
     int minimumPushes(string word) {
         vector<int> freq(26);
         for(char ch : word) {
