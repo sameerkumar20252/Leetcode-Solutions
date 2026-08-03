@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1331-rank-transform-of-an-array](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1352-product-of-the-last-k-numbers](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
+| [1406-stone-game-iii](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
 | [1441-build-an-array-with-stack-operations](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1584-min-cost-to-connect-all-points](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1406-stone-game-iii](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
 | [3693-climbing-stairs-ii](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3693-climbing-stairs-ii) |
 | [3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element) |
 | [3840-house-robber-v](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3840-house-robber-v) |
@@ -462,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1352-product-of-the-last-k-numbers](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
+| [1406-stone-game-iii](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [2965-find-missing-and-repeated-values](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
@@ -616,4 +619,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
