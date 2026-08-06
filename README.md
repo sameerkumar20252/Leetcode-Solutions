@@ -475,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [2965-find-missing-and-repeated-values](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -562,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1291-sequential-digits](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1291-sequential-digits) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3713-longest-balanced-substring-i](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3827-count-monobit-integers](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3827-count-monobit-integers) |
 | [3833-count-dominant-indices](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3833-count-dominant-indices) |
