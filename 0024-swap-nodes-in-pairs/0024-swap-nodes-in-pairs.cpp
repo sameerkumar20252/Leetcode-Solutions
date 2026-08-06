@@ -17,13 +17,15 @@ public:
         if(head->next == nullptr) {
             return head;
         }
-        ListNode* dummy = new ListNode(-1);
+        ListNode* dummy = nullptr;
         ListNode* c1 = head;
         ListNode* c2 = head->next;
         ListNode* ans = head->next;;
 
         while(c2 != nullptr) {
-            dummy->next = c2;
+            if(dummy != nullptr) {
+                dummy->next = c2;
+            }
             c1->next = c2->next;
             c2->next = c1;
             dummy = c1;
