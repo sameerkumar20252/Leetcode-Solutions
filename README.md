@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [1670-design-front-middle-back-queue](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1670-design-front-middle-back-queue) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Array
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1584-min-cost-to-connect-all-points](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
+| [1670-design-front-middle-back-queue](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1670-design-front-middle-back-queue) |
 | [1748-sum-of-unique-elements](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1901-find-a-peak-element-ii](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1901-find-a-peak-element-ii) |
@@ -574,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [1352-product-of-the-last-k-numbers](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
+| [1670-design-front-middle-back-queue](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1670-design-front-middle-back-queue) |
 | [3829-design-ride-sharing-system](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3829-design-ride-sharing-system) |
 ## Union-Find
 |  |
@@ -593,11 +596,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
+| [1670-design-front-middle-back-queue](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1670-design-front-middle-back-queue) |
 | [3829-design-ride-sharing-system](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3829-design-ride-sharing-system) |
 ## Data Stream
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
+| [1670-design-front-middle-back-queue](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1670-design-front-middle-back-queue) |
 | [3829-design-ride-sharing-system](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3829-design-ride-sharing-system) |
 ## Minimum Spanning Tree
 |  |
@@ -620,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [1670-design-front-middle-back-queue](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1670-design-front-middle-back-queue) |
 ## Counting Sort
 |  |
 | ------- |
