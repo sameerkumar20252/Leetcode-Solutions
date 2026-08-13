@@ -36,8 +36,7 @@ public:
             forward = curr->next;
         }
 
-        //reverse
-        // ListNode* temp = head;
+        //reverse second half
         while(1) {
             curr->next = prev;
             prev = curr;
@@ -51,7 +50,7 @@ public:
         ListNode* temp1 = head;
         ListNode* temp2 = last->next;
 
-        ////reorder
+        //reorder
         while(1) {
             ListNode* t1 = temp1->next;
             ListNode* t2 = temp2->next;
