@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3659-partition-array-into-k-distinct-groups](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3659-partition-array-into-k-distinct-groups) |
 | [3713-longest-balanced-substring-i](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3713-longest-balanced-substring-i) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3659-partition-array-into-k-distinct-groups](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3659-partition-array-into-k-distinct-groups) |
