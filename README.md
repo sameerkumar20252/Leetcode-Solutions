@@ -373,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0684-redundant-connection](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0814-binary-tree-pruning](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0814-binary-tree-pruning) |
 | [0841-keys-and-rooms](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0841-keys-and-rooms) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0684-redundant-connection](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0841-keys-and-rooms) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0841-keys-and-rooms) |
 | [1192-critical-connections-in-a-network](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1192-critical-connections-in-a-network) |
@@ -614,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0684-redundant-connection) |
+| [0785-is-graph-bipartite](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1584-min-cost-to-connect-all-points](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -683,4 +687,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
