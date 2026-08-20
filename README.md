@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2105-watering-plants-ii](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2105-watering-plants-ii) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2390-removing-stars-from-a-string](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |
