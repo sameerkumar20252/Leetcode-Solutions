@@ -383,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0802-find-eventual-safe-states](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0802-find-eventual-safe-states) |
 | [0814-binary-tree-pruning](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0814-binary-tree-pruning) |
 | [0841-keys-and-rooms](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0841-keys-and-rooms) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1028-recover-a-tree-from-preorder-traversal) |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0802-find-eventual-safe-states](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0841-keys-and-rooms) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0802-find-eventual-safe-states](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0841-keys-and-rooms) |
 | [1192-critical-connections-in-a-network](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1192-critical-connections-in-a-network) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -715,13 +718,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [0802-find-eventual-safe-states](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0802-find-eventual-safe-states) |
 | [2360-longest-cycle-in-a-graph](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2360-longest-cycle-in-a-graph) |
 ## Kosaraju's Algorithm
 |  |
 | ------- |
+| [0802-find-eventual-safe-states](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0802-find-eventual-safe-states) |
 | [2360-longest-cycle-in-a-graph](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2360-longest-cycle-in-a-graph) |
 ## Tarjan's SCC Algorithm
 |  |
 | ------- |
+| [0802-find-eventual-safe-states](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0802-find-eventual-safe-states) |
 | [2360-longest-cycle-in-a-graph](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2360-longest-cycle-in-a-graph) |
 <!---LeetCode Topics End-->
