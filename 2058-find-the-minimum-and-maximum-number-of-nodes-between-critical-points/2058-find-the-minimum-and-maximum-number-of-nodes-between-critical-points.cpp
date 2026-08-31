@@ -17,7 +17,7 @@ public:
         ListNode* front = head->next->next;
         int first = -1;
         int n = 2, last = -1;
-        int mx = INT_MIN, mn = INT_MAX;
+        int mn = INT_MAX;
 
         while(front != nullptr) {
             if((temp->val < back->val && temp->val < front->val) || 
@@ -26,9 +26,7 @@ public:
                     first = n;
                 } else {
                     mn = min(mn, n - last);
-                    mx = max(mx, n - first);
                     ans[0] = mn;
-                    ans[1] = mx;
                 }
                 last = n;
             }
@@ -36,6 +34,10 @@ public:
             back = temp;
             temp = front;
             front = front->next;
+        }
+        
+        if(first != last) {
+            ans[1] = last - first;
         }
 
         return ans;
