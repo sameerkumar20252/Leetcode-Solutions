@@ -11,15 +11,17 @@
  */
 class Solution {
 public:
+    int dfs(TreeNode* root) {
+        if(root == nullptr) return INT_MAX;
+        if(!root->left && !root->right) return 1;
+
+        int l = dfs(root->left);
+        int r = dfs(root->right);
+
+        return 1 + min(l,r);
+    }
     int minDepth(TreeNode* root) {
-        if(root == nullptr){
-            return 0;
-        }
-        int L = minDepth(root->left);
-        int R = minDepth(root->right);
-        if((L == 0 && R > 0) || (L > 0 && R == 0)){
-            return max(L,R)+1;
-        }
-        return min(L,R)+1;
+        if(root == nullptr) return 0;
+        return dfs(root);
     }
 };
