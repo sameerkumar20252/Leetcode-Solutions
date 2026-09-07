@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0037-sudoku-solver](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0142-linked-list-cycle-ii](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0076-minimum-window-substring](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
@@ -544,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
