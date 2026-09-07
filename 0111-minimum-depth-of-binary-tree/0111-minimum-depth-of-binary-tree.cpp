@@ -11,17 +11,28 @@
  */
 class Solution {
 public:
-    int dfs(TreeNode* root) {
-        if(root == nullptr) return INT_MAX;
-        if(!root->left && !root->right) return 1;
-
-        int l = dfs(root->left);
-        int r = dfs(root->right);
-
-        return 1 + min(l,r);
-    }
     int minDepth(TreeNode* root) {
         if(root == nullptr) return 0;
-        return dfs(root);
+        queue<pair<TreeNode*,int>> Q;
+        Q.push({root, 1});
+        int ans = INT_MAX;
+
+        while(Q.size() > 0) {
+            auto[curr, d] = Q.front();
+            Q.pop();
+
+            if(!curr->left && !curr->right) {
+                ans = min(ans, d);
+            }
+
+            if(curr->left) {
+                Q.push({curr->left, d + 1});
+            }
+            if(curr->right) {
+                Q.push({curr->right, d + 1});
+            }
+        }
+
+        return ans;
     }
 };
