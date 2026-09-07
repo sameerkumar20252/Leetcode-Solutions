@@ -18,6 +18,7 @@ public:
             int wt = get<2>(cor);
 
             if(t > dis[r][c]) continue;
+            if(r == m-1 && c == n-1) break;
 
             for(auto[x, y] : dir) {
                 x = x + r;
