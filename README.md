@@ -413,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0802-find-eventual-safe-states) |
 | [0814-binary-tree-pruning](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0814-binary-tree-pruning) |
 | [0841-keys-and-rooms](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0841-keys-and-rooms) |
+| [0993-cousins-in-binary-tree](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0993-cousins-in-binary-tree) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1192-critical-connections-in-a-network](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1192-critical-connections-in-a-network) |
 | [1302-deepest-leaves-sum](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1302-deepest-leaves-sum) |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0841-keys-and-rooms) |
+| [0993-cousins-in-binary-tree](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0993-cousins-in-binary-tree) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1302-deepest-leaves-sum](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1302-deepest-leaves-sum) |
@@ -629,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0814-binary-tree-pruning) |
+| [0993-cousins-in-binary-tree](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0993-cousins-in-binary-tree) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1302-deepest-leaves-sum](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1302-deepest-leaves-sum) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1325-delete-leaves-with-a-given-value) |
@@ -658,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0814-binary-tree-pruning) |
+| [0993-cousins-in-binary-tree](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0993-cousins-in-binary-tree) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1302-deepest-leaves-sum](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1302-deepest-leaves-sum) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1325-delete-leaves-with-a-given-value) |
