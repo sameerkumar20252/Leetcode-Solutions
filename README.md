@@ -420,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-increasing-order-search-tree](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0897-increasing-order-search-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0993-cousins-in-binary-tree) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1028-recover-a-tree-from-preorder-traversal) |
+| [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
 | [1192-critical-connections-in-a-network](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1192-critical-connections-in-a-network) |
 | [1302-deepest-leaves-sum](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1302-deepest-leaves-sum) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -646,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-increasing-order-search-tree](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0897-increasing-order-search-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0993-cousins-in-binary-tree) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1028-recover-a-tree-from-preorder-traversal) |
+| [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
 | [1302-deepest-leaves-sum](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1302-deepest-leaves-sum) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1325-delete-leaves-with-a-given-value) |
 | [2236-root-equals-sum-of-children](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2236-root-equals-sum-of-children) |
@@ -677,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-increasing-order-search-tree](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0897-increasing-order-search-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0993-cousins-in-binary-tree) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1028-recover-a-tree-from-preorder-traversal) |
+| [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
 | [1302-deepest-leaves-sum](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1302-deepest-leaves-sum) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1325-delete-leaves-with-a-given-value) |
 | [2236-root-equals-sum-of-children](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2236-root-equals-sum-of-children) |
