@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
+| [0897-increasing-order-search-tree](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0897-increasing-order-search-tree) |
 | [0946-validate-stack-sequences](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0946-validate-stack-sequences) |
 | [1441-build-an-array-with-stack-operations](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0802-find-eventual-safe-states) |
 | [0814-binary-tree-pruning](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0814-binary-tree-pruning) |
 | [0841-keys-and-rooms](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0841-keys-and-rooms) |
+| [0897-increasing-order-search-tree](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0897-increasing-order-search-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0993-cousins-in-binary-tree) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1192-critical-connections-in-a-network](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1192-critical-connections-in-a-network) |
@@ -641,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0814-binary-tree-pruning) |
+| [0897-increasing-order-search-tree](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0897-increasing-order-search-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0993-cousins-in-binary-tree) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1302-deepest-leaves-sum](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1302-deepest-leaves-sum) |
@@ -671,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0814-binary-tree-pruning) |
+| [0897-increasing-order-search-tree](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0897-increasing-order-search-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0993-cousins-in-binary-tree) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1302-deepest-leaves-sum](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1302-deepest-leaves-sum) |
@@ -751,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0897-increasing-order-search-tree](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0897-increasing-order-search-tree) |
 ## Doubly-Linked List
 |  |
 | ------- |
