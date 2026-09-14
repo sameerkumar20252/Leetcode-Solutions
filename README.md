@@ -498,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3604-minimum-time-to-reach-destination-in-directed-graph](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3604-minimum-time-to-reach-destination-in-directed-graph) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -514,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
+| [3604-minimum-time-to-reach-destination-in-directed-graph](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3604-minimum-time-to-reach-destination-in-directed-graph) |
 ## Shortest Path
 |  |
 | ------- |
@@ -526,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
+| [3604-minimum-time-to-reach-destination-in-directed-graph](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3604-minimum-time-to-reach-destination-in-directed-graph) |
 ## Merge Sort
 |  |
 | ------- |
