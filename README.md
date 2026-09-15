@@ -585,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0263-ugly-number](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0263-ugly-number) |
 | [0486-predict-the-winner](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
