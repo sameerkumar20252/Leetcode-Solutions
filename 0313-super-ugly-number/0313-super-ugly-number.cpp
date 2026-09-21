@@ -5,22 +5,26 @@ public:
 
         int m = primes.size();
         vector<int> idx(m, 0);
-        vector<long long> ith(m);
+        // vector<long long> ith(m);
+        using T = pair<long long,int>;
+        priority_queue<T, vector<T>, greater<T>> pq;
         dp[0] = 1;
 
+        for(int i = 0; i < m; i++) {
+            pq.push({(long long)primes[i], i});
+        }
+
         for(int i = 1; i < n; i++) {
-            long long mn = LLONG_MAX;
-            for(int j = 0; j < m; j++) {
-                long long mul = dp[idx[j]] * primes[j];
-                ith[j] = mul;
-                mn = min(mn, mul);
-            }
+            long long mn = pq.top().first;
             dp[i] = mn;
-            for(int j = 0; j < m; j++) {
-                if(mn == ith[j]) {
-                    idx[j]++;
-                }
+
+            while(!pq.empty() && pq.top().first == mn) {
+                int j = pq.top().second;
+                pq.pop();
+                idx[j]++;
+                pq.push({dp[idx[j]] * primes[j], j});
             }
+
         }
 
         return dp[n-1];
