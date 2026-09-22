@@ -2,18 +2,16 @@ class MedianFinder {
 public:
     priority_queue<int> mx;
     priority_queue<int, vector<int>, greater<int>> mn;
-    int n;
     MedianFinder() {
-        n = 0;
+
     }
     
     void addNum(int num) {
-        n++;
         if(mx.size() == 0) {
             mx.push(num);
             return;
         }
-        if(mn.size() < mx.size()) {
+        else if(mn.size() < mx.size()) {
             if(num < mx.top()) {
                 int val = mx.top();
                 mx.pop();
