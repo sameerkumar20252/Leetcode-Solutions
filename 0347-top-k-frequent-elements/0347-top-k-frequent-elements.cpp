@@ -7,17 +7,20 @@ public:
             m[i]++;
         }
 
-        priority_queue<pair<int,int>> pq;
+        priority_queue<pair<int,int>, vector<pair<int,int>>, greater<pair<int,int>>> pq;
 
         for(auto& p : m) {
             pq.push({p.second, p.first});
+            if(pq.size() > k) {
+                pq.pop();
+            }
         }
 
         vector<int> ans;
-        while(k--) {
+        while(!pq.empty()) {
             auto val = pq.top();
-            pq.pop();
             ans.push_back(val.second);
+            pq.pop();
         }
 
         return ans;
