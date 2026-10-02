@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0817-linked-list-components](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0817-linked-list-components) |
+| [1472-design-browser-history](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1472-design-browser-history) |
 | [1670-design-front-middle-back-queue](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1670-design-front-middle-back-queue) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
 | [1441-build-an-array-with-stack-operations](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
+| [1472-design-browser-history](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1472-design-browser-history) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1514-path-with-maximum-probability](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1514-path-with-maximum-probability) |
 | [1584-min-cost-to-connect-all-points](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-increasing-order-search-tree](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0897-increasing-order-search-tree) |
 | [0946-validate-stack-sequences](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0946-validate-stack-sequences) |
 | [1441-build-an-array-with-stack-operations](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
+| [1472-design-browser-history](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1472-design-browser-history) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -780,6 +783,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0295-find-median-from-data-stream](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [1352-product-of-the-last-k-numbers](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
+| [1472-design-browser-history](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1472-design-browser-history) |
 | [1670-design-front-middle-back-queue](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1670-design-front-middle-back-queue) |
 | [1845-seat-reservation-manager](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1845-seat-reservation-manager) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2642-design-graph-with-shortest-path-calculator) |
@@ -810,6 +814,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [1352-product-of-the-last-k-numbers](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
+| [1472-design-browser-history](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1472-design-browser-history) |
 | [1670-design-front-middle-back-queue](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1670-design-front-middle-back-queue) |
 | [3829-design-ride-sharing-system](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3829-design-ride-sharing-system) |
 ## Minimum Spanning Tree
@@ -836,6 +841,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [1472-design-browser-history](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1472-design-browser-history) |
 | [1670-design-front-middle-back-queue](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1670-design-front-middle-back-queue) |
 ## Counting Sort
 |  |
