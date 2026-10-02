@@ -19,6 +19,7 @@ public:
     }
     
     void visit(string url) {
+        if(curr->next) curr->next->prev = nullptr;
         curr->next = new Node(url);
         curr->next->prev = curr;
         curr = curr->next;
