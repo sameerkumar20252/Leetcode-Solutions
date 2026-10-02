@@ -1,6 +1,6 @@
 class Solution {
 public:
-    void helper(int n, int open, int close, vector<string>& ans, string& str) {
+    void helper(int open, int close, int n, string& str, vector<string>& ans) {
         if(str.length() == 2*n) {
             ans.push_back(str);
             return;
@@ -8,23 +8,21 @@ public:
 
         if(open < n) {
             str.push_back('(');
-            helper(n, open + 1, close, ans, str);
+            helper(open+1, close, n, str, ans);
             str.pop_back();
         }
 
         if(close < open) {
             str.push_back(')');
-            helper(n, open, close + 1, ans, str);
+            helper(open, close+1, n, str, ans);
             str.pop_back();
         }
     }
 
     vector<string> generateParenthesis(int n) {
-        vector<string> ans;
         string str = "";
-
-        helper(n, 0, 0, ans, str);
-
+        vector<string> ans;
+        helper(0, 0, n, str, ans);
         return ans;
     }
 };
