@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0474-ones-and-zeroes](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0567-permutation-in-string](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
+| [0856-score-of-parentheses](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0856-score-of-parentheses) |
 | [0929-unique-email-addresses](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0929-unique-email-addresses) |
 | [1002-find-common-characters](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1002-find-common-characters) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1028-recover-a-tree-from-preorder-traversal) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
+| [0856-score-of-parentheses](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0856-score-of-parentheses) |
 | [0897-increasing-order-search-tree](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0897-increasing-order-search-tree) |
 | [0946-validate-stack-sequences](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0946-validate-stack-sequences) |
 | [1441-build-an-array-with-stack-operations](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
@@ -936,5 +938,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
