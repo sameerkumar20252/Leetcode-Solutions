@@ -1,44 +1,33 @@
 class Solution {
 public:
-    vector<pair<int,int>> dir = {{1,0},{0,1},{-1,0},{0,-1}};
-    void bfs(int r, int c, vector<vector<int>>& grid, int& area) {
-        queue<pair<int,int>> Q;
-        Q.push({r, c});
-
-
-        while(!Q.empty()) {
-            auto[i, j] = Q.front();
-            Q.pop();
-
-            for(auto[x, y] : dir) {
-                int a = x + i;
-                int b = y + j;
-
-                if(a < 0 || b < 0 || a >= grid.size() || b >= grid[0].size() || grid[a][b] == 0) continue;
-
-                area++;
-                grid[a][b] = 0;
-                Q.push({a, b});
-            }
+    void dfs(vector<vector<int>>& grid, int r, int c, int m, int n, int& path) {
+        if(r < 0 || c < 0 || r >= m || c >= n || grid[r][c] != 1) {
+            return;
         }
+        path++;
+        grid[r][c] = 0;
+
+        dfs(grid, r - 1, c, m, n, path);
+        dfs(grid, r + 1, c, m, n, path);
+        dfs(grid, r, c - 1, m, n, path);
+        dfs(grid, r, c + 1, m, n, path);
     }
 
     int maxAreaOfIsland(vector<vector<int>>& grid) {
         int m = grid.size();
         int n = grid[0].size();
-        int maxArea = 0;
+        int maxPath = 0;
 
-        for(int  i = 0; i < m; i++) {
+        for(int i = 0; i < m; i++) {
             for(int j = 0; j < n; j++) {
                 if(grid[i][j] == 1) {
-                    int area = 1;
-                    grid[i][j] = 0;
-                    bfs(i, j, grid, area);
-                    maxArea = max(maxArea, area);
+                    int path = 0;
+                    dfs(grid, i, j, m, n, path);
+                    maxPath = max(maxPath, path);
                 }
             }
         }
 
-        return maxArea;
+        return maxPath;
     }
 };
