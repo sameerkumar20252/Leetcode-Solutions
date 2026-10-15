@@ -5,7 +5,7 @@ public:
         if(n >= 1) isPrime[0] = false;
         if(n >= 2) isPrime[1] = false;
 
-        for(long long i = 2; i < n; i++) {
+        for(long long i = 2; i * i < n; i++) {
             if(isPrime[i]) {
                 for(long long j = i * i; j < n; j+=i) {
                     isPrime[j] = false;
