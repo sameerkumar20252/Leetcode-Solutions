@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -659,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0204-count-primes](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0313-super-ugly-number](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0313-super-ugly-number) |
@@ -688,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2413-smallest-even-multiple) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -802,6 +805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1291-sequential-digits) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -972,4 +976,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
