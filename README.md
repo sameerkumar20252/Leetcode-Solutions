@@ -673,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2413-smallest-even-multiple) |
+| [2523-closest-prime-numbers-in-range](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2523-closest-prime-numbers-in-range) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [2965-find-missing-and-repeated-values](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -693,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2413-smallest-even-multiple) |
+| [2523-closest-prime-numbers-in-range](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2523-closest-prime-numbers-in-range) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
@@ -980,12 +982,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0204-count-primes) |
+| [2523-closest-prime-numbers-in-range](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2523-closest-prime-numbers-in-range) |
 ## Sieve Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0204-count-primes) |
+| [2523-closest-prime-numbers-in-range](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2523-closest-prime-numbers-in-range) |
 ## Prime Number Sieve
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0204-count-primes) |
+| [2523-closest-prime-numbers-in-range](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2523-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->
