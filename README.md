@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2601-prime-subtraction-operation](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2601-prime-subtraction-operation) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2601-prime-subtraction-operation](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2601-prime-subtraction-operation) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -623,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1901-find-a-peak-element-ii](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2601-prime-subtraction-operation](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2601-prime-subtraction-operation) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Binary Indexed Tree
@@ -675,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2413-smallest-even-multiple) |
 | [2523-closest-prime-numbers-in-range](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2523-closest-prime-numbers-in-range) |
+| [2601-prime-subtraction-operation](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2601-prime-subtraction-operation) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [2965-find-missing-and-repeated-values](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -697,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2413-smallest-even-multiple) |
 | [2523-closest-prime-numbers-in-range](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2523-closest-prime-numbers-in-range) |
+| [2601-prime-subtraction-operation](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2601-prime-subtraction-operation) |
 | [3115-maximum-prime-difference](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3115-maximum-prime-difference) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
