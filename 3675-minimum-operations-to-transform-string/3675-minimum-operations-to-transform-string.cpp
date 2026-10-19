@@ -1,7 +1,6 @@
 class Solution {
 public:
     int minOperations(string s) {
-        int ans = 0;
         char mn = 'z' + 1;
         for(char ch : s) {
             if(ch != 'a') {
@@ -11,8 +10,7 @@ public:
             }
         }
 
-        if(mn == 'z' + 1) return ans;
-        ans = 'z' - mn + 1;
-        return ans;
+        if(mn == 'z' + 1) return 0;
+        return 'z' - mn + 1;
     }
 };
