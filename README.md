@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3675-minimum-operations-to-transform-string](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3675-minimum-operations-to-transform-string) |
 | [3713-longest-balanced-substring-i](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Counting
 |  |
 | ------- |
