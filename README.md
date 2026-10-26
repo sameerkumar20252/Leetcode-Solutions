@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
+| [0752-open-the-lock](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0752-open-the-lock) |
 | [0817-linked-list-components](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0817-linked-list-components) |
 | [0929-unique-email-addresses](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0929-unique-email-addresses) |
 | [1002-find-common-characters](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1002-find-common-characters) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0474-ones-and-zeroes](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0567-permutation-in-string](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
+| [0752-open-the-lock](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0752-open-the-lock) |
 | [0856-score-of-parentheses](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0929-unique-email-addresses](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0929-unique-email-addresses) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [0752-open-the-lock](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0752-open-the-lock) |
 | [0817-linked-list-components](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0817-linked-list-components) |
 | [0877-stone-game](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [0929-unique-email-addresses](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0929-unique-email-addresses) |
@@ -542,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0743-network-delay-time) |
+| [0752-open-the-lock](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0752-open-the-lock) |
 | [0785-is-graph-bipartite](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0797-all-paths-from-source-to-target) |
@@ -1036,4 +1040,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [2523-closest-prime-numbers-in-range](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2523-closest-prime-numbers-in-range) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0752-open-the-lock](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0752-open-the-lock) |
 <!---LeetCode Topics End-->
