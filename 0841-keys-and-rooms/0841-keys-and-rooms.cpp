@@ -1,19 +1,27 @@
 class Solution {
 public: 
-    void dfs(vector<vector<int>>& rooms, int u, vector<bool>& vis) {
-        vis[u] = true;
-
-        for(int v : rooms[u]) {
-            if(!vis[v]) {
-                dfs(rooms, v, vis);
-            }
-        }
-    }
     bool canVisitAllRooms(vector<vector<int>>& rooms) {
         int n = rooms.size();
         vector<bool> vis(n, false);
+        queue<int> Q;
+        Q.push(0);
+        vis[0] = true;
 
-        dfs(rooms, 0, vis);
+        while(Q.size() > 0) {
+            int size = Q.size();
+
+            for(int i = 0; i < size; i++) {
+                int u = Q.front();
+                Q.pop();
+
+                for(int v : rooms[u]) {
+                    if(!vis[v]) {
+                        vis[v] = true;
+                        Q.push(v);
+                    }
+                }
+            }
+        }
 
         for(bool x : vis) {
             if(x == false) return false;
