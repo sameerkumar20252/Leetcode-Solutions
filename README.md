@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1901-find-a-peak-element-ii](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
