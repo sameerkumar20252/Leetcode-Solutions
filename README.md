@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2336-smallest-number-in-infinite-set](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2336-smallest-number-in-infinite-set) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
@@ -617,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2336-smallest-number-in-infinite-set](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2336-smallest-number-in-infinite-set) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
@@ -673,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
+| [2336-smallest-number-in-infinite-set](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2336-smallest-number-in-infinite-set) |
 ## Sliding Window
 |  |
 | ------- |
@@ -870,6 +873,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1472-design-browser-history](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1472-design-browser-history) |
 | [1670-design-front-middle-back-queue](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1670-design-front-middle-back-queue) |
 | [1845-seat-reservation-manager](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1845-seat-reservation-manager) |
+| [2336-smallest-number-in-infinite-set](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2336-smallest-number-in-infinite-set) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [3829-design-ride-sharing-system](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3829-design-ride-sharing-system) |
 ## Union-Find
