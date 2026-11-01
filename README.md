@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0313-super-ugly-number](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0313-super-ugly-number) |
 | [0347-top-k-frequent-elements](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0474-ones-and-zeroes](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
@@ -708,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0313-super-ugly-number](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0313-super-ugly-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
