@@ -601,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1462-course-schedule-iv](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1462-course-schedule-iv) |
 | [1514-path-with-maximum-probability](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1514-path-with-maximum-probability) |
 | [1584-min-cost-to-connect-all-points](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
+| [1615-maximal-network-rank](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1615-maximal-network-rank) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2359-find-closest-node-to-given-two-nodes) |
 | [2360-longest-cycle-in-a-graph](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2360-longest-cycle-in-a-graph) |
