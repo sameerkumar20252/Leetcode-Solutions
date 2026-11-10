@@ -1,5 +1,6 @@
 class Solution {
 public:
+    unordered_map<string, int> m;
     bool hasDuplicate(string& s1, string& s2) {
         bool arr[26] = {false};
 
@@ -18,6 +19,8 @@ public:
     int helper(int i, vector<string>& arr, string temp, int n) {
         if(i >= n) return temp.length();
 
+        if(m.count(temp)) return m[temp];
+
         int in = 0;
         int ex = 0;
 
@@ -28,7 +31,7 @@ public:
             in = helper(i+1, arr, temp + arr[i], n);
         }
 
-        return max(in, ex);
+        return m[temp] = max(in, ex);
     }
 
     int maxLength(vector<string>& arr) {
