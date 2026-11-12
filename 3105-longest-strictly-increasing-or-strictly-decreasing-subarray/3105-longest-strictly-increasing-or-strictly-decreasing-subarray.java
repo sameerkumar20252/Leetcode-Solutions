@@ -4,34 +4,20 @@ class Solution {
         int ans = 1;
 
         //check strictly increasing
-        int inc = 1;
+        int inc = 0;
+        int dec = 0;
 
-        for(int i = 0; i < n; i++) {
-            inc = 1;
-            for(int j = i + 1; j < n; j++) {
-                if(nums[j] > nums[j-1]) {
-                    inc++;
-                    ans = Math.max(ans, inc);
-                } else {
-                    inc = 1;
-                    break;
-                }
+        for(int i = 1; i < n; i++) {
+            if(nums[i] > nums[i-1]) {
+                ans = Math.max(ans, i - inc + 1);
+            } else {
+                inc = i;
             }
-        }
 
-        //check strictly decreasing
-        int dec = 1;
-
-        for(int i = 0; i < n; i++) {
-            dec = 1;
-            for(int j = i + 1; j < n; j++) {
-                if(nums[j] < nums[j-1]) {
-                    dec++;
-                    ans = Math.max(ans, dec);
-                } else {
-                    dec = 1;
-                    break;
-                }
+            if(nums[i] < nums[i-1]) {
+                ans = Math.max(ans, i - dec + 1);
+            } else {
+                dec = i;
             }
         }
 
