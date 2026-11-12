@@ -2,8 +2,6 @@ class Solution {
     public int longestMonotonicSubarray(int[] nums) {
         int n = nums.length;
         int ans = 1;
-
-        //check strictly increasing
         int inc = 0;
         int dec = 0;
 
