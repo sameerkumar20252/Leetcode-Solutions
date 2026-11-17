@@ -402,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0338-counting-bits) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1386-cinema-seat-allocation](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -437,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0213-house-robber-ii) |
 | [0264-ugly-number-ii](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0313-super-ugly-number](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0313-super-ugly-number) |
+| [0338-counting-bits](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0338-counting-bits) |
 | [0474-ones-and-zeroes](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
