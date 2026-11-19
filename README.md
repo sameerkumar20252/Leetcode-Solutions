@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2601-prime-subtraction-operation](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2601-prime-subtraction-operation) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2761-prime-pairs-with-target-sum](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2761-prime-pairs-with-target-sum) |
@@ -461,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2601-prime-subtraction-operation](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2601-prime-subtraction-operation) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -493,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
