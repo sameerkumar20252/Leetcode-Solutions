@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0695-max-area-of-island](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0735-asteroid-collision](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
+| [0561-array-partition](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -486,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0561-array-partition](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -982,6 +985,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Game Theory
 |  |
