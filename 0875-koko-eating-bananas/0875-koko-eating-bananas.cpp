@@ -12,8 +12,8 @@ public:
             long long totalTime = 0;
             for(int x : piles) {
                 totalTime += (x / mid);
-                int r = x % mid;
-                if(r > 0) totalTime++;
+                int rem = x % mid;
+                if(rem > 0) totalTime++;
             }
 
             if(totalTime > h) {
