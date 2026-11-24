@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0752-open-the-lock](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0752-open-the-lock) |
 | [0817-linked-list-components](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0817-linked-list-components) |
+| [0875-koko-eating-bananas](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [0929-unique-email-addresses](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0929-unique-email-addresses) |
 | [0946-validate-stack-sequences](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0946-validate-stack-sequences) |
@@ -701,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0493-reverse-pairs](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0875-koko-eating-bananas](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1901-find-a-peak-element-ii](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sameerkumar20252/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
